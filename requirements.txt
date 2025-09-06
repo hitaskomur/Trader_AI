@@ -1,8 +1,0 @@
-streamlit
-yfinance
-pandas
-plotly
-pandas-ta
-google-generativeai
-numpy
-kaleido
